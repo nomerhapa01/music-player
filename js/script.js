@@ -236,7 +236,7 @@ function clicked(element) {
 // Integration //
 const global = {
   api: {
-    apiKey: "693d0c8dcfmsheeda56caef363fbp1545a1jsn5417f7af0e09",
+    apiKey: "e8addb3045msh68d1957ab73faf7p104e78jsnaea1fa206d0d",
     spotifyHost: "spotify23.p.rapidapi.com",
     geniusHost: "genius-song-lyrics1.p.rapidapi.com",
   },
